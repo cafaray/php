@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:servicioparcial="http://www.sat.gob.mx/servicioparcialconstruccion" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:donat="http://www.sat.gob.mx/donat" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="F" folio="160" fecha="2017-06-16T18:43:02" sello="GfBA70Bn4ViAa7H11ONU7eoWCzrmOGfTEzIX9DDRXdChQunWZw5Ea93/fIMBhrMTTfTJO5seKWtXs1ex9T6YUKA9UR3zR27QaDbyZ5rHi6HFuQja6zTvL904WsSN1h1dlesYShIfD8NnKDvDWxwGWr9bpRtMPx9z6qCrwGSysqBo8/bRlGzHziASF4C1FwWe2RDL8hzhnWBnPCIn/n+Qj3/Clk2xgvsg+J/o2lIfVM8tbYw4YoPsOjzl2W1yYxhywaBoia5eyhH92hYx/Cq1er7UV42j3smGj+BePQTHkcWN9esaL1dIwFz4BagrkQMiU/qN0bGvb8vzLdkvI/23qA==" formaDePago="Pago en una sola exhibición" noCertificado="00001000000404538422" certificado="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" subTotal="151440.00" TipoCambio="1.000000" Moneda="Pesos" total="175670.40" tipoDeComprobante="ingreso" metodoDePago="NA" LugarExpedicion="TLALNEPANTLA DE BAZ, Mexico"><cfdi:Emisor rfc="IMI161007SY7" nombre="IMPORTADORA MIZCO SA DE CV"><cfdi:DomicilioFiscal calle="ANTONIO M. RIVERA" noExterior="26" noInterior="BODEGA 9" colonia="CENTRO INDUSTRIAL TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="Mexico" pais="México" codigoPostal="54030"></cfdi:DomicilioFiscal><cfdi:ExpedidoEn calle="ANTONIO M. RIVERA" noExterior="26" noInterior="BODEGA 9" colonia="CENTRO INDUSTRIAL TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="Mexico" pais="México" codigoPostal="54030"></cfdi:ExpedidoEn><cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales"></cfdi:RegimenFiscal></cfdi:Emisor><cfdi:Receptor rfc="TSO991022PB6" nombre="TIENDAS SORIANA, S.A. DE C.V."><cfdi:Domicilio calle="ALEJANDRO DE RODAS" noExterior="3102-A" colonia="CUMBRES 8o. SECTOR" localidad="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64610"></cfdi:Domicilio></cfdi:Receptor><cfdi:Conceptos><cfdi:Concepto cantidad="124" unidad="CJ" descripcion="PAQ.12 TELEFONO GONDOLA" valorUnitario="960.000000" importe="119040.00"><cfdi:Parte cantidad="1488" unidad="pz" descripcion="TELEFONO DE ESCRITORIO TIPO GONDOLA" valorUnitario="80.000000" importe="119040.00"><cfdi:InformacionAduanera numero="175138627020731" fecha="2017-04-24" aduana="LAZARO CARDENAS"></cfdi:InformacionAduanera></cfdi:Parte></cfdi:Concepto><cfdi:Concepto cantidad="45" unidad="CJ" descripcion="PAQ.6 TELEFONO DE ESCRITORIO" valorUnitario="720.000000" importe="32400.00"><cfdi:Parte cantidad="270" unidad="pz" descripcion="TELEFONO DE ESCRITORIO" valorUnitario="120.000000" importe="32400.00"><cfdi:InformacionAduanera numero="175138627020730" fecha="2017-04-24" aduana="LAZARO CARDENAS"></cfdi:InformacionAduanera></cfdi:Parte></cfdi:Concepto></cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="24230.40"><cfdi:Traslados><cfdi:Traslado impuesto="IVA" tasa="16.00" importe="24230.40"></cfdi:Traslado></cfdi:Traslados></cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="GfBA70Bn4ViAa7H11ONU7eoWCzrmOGfTEzIX9DDRXdChQunWZw5Ea93/fIMBhrMTTfTJO5seKWtXs1ex9T6YUKA9UR3zR27QaDbyZ5rHi6HFuQja6zTvL904WsSN1h1dlesYShIfD8NnKDvDWxwGWr9bpRtMPx9z6qCrwGSysqBo8/bRlGzHziASF4C1FwWe2RDL8hzhnWBnPCIn/n+Qj3/Clk2xgvsg+J/o2lIfVM8tbYw4YoPsOjzl2W1yYxhywaBoia5eyhH92hYx/Cq1er7UV42j3smGj+BePQTHkcWN9esaL1dIwFz4BagrkQMiU/qN0bGvb8vzLdkvI/23qA==" FechaTimbrado="2017-06-16T18:43:05" UUID="ee0d06a6-ccab-40c9-bb0e-0551e198e96d" version="1.0" noCertificadoSAT="00001000000404624465" selloSAT="u1rzf8oPkMzpHKZ5LGT1ws1/a9HhyZ+vBUmRmymZVV2Ntkh/k4ED7aaxn9dxVuHeWdgBTnKt5daIetsuW7woI1wglYbSH1CxJoiwanCDXgMPbC6vtUBumj5AAlxgvnpTiSym2r91EtMiXcVDytCZ+4YBcliu8o6Lc6dCdA0rSg2zF5WpeEoRcZStosHmnXQkci1JfytABYQGd95BYdII34HHScNYI2d8RoWW/YsgNSG21W4eey8ECJ23H/rMGhf9oVm48504RGi1D9mrcTaS1zZ2kR5FGJo8fUUNAg0ZyBE+zGWv7OPC8tRni7VCfewquAsTj50AYDPLeFVzyU/haQ=="/></cfdi:Complemento><cfdi:Addenda>
+	<DSCargaRemisionProv>
+		<Remision Id="Remision1" RowOrder="0">
+			<Proveedor>17893</Proveedor>
+			<Remision>F-160</Remision>
+			<Consecutivo>0</Consecutivo>
+			<FechaRemision>2017-06-08T00:00:00</FechaRemision>
+			<Tienda>5578</Tienda>
+			<TipoMoneda>1</TipoMoneda>
+			<TipoBulto>2</TipoBulto>
+			<EntregaMercancia>5513</EntregaMercancia>
+			<CumpleReqFiscales>true</CumpleReqFiscales>
+			<CantidadBultos>113</CantidadBultos>
+			<Subtotal>139626.00</Subtotal>
+			<Descuentos>0.00</Descuentos>
+			<IEPS>0.00</IEPS>
+			<IVA>23240.16</IVA>
+			<OtrosImpuestos>0.00</OtrosImpuestos>
+			<Total>161966.16</Total>
+			<CantidadPedidos>1</CantidadPedidos>
+			<FechaEntregaMercancia>2017/06/20T00:00:00</FechaEntregaMercancia>
+			<Cita>4235807</Cita>
+		</Remision>
+		<Pedidos Id="Pedidos1" RowOrder="0">
+			<Proveedor>17893</Proveedor>
+			<Remision>F-160</Remision>
+			<FolioPedido>53273586</FolioPedido>
+			<Tienda>5578</Tienda>
+			<CantidadArticulos>169</CantidadArticulos>
+		</Pedidos>
+		<Articulos Id="Articulos1" RowOrder="1">
+			<Proveedor>17893</Proveedor>
+			<Remision>F-160</Remision>
+			<FolioPedido>53273586</FolioPedido>
+			<Tienda>5578</Tienda>
+			<Codigo>7500462405120</Codigo>
+			<CantidadUnidadCompra>124</CantidadUnidadCompra>
+			<CostoNetoUnidadCompra>960.00</CostoNetoUnidadCompra>
+			<PorcentajeIEPS>0.00</PorcentajeIEPS>
+			<PorcentajeIVA>16</PorcentajeIVA>
+		</Articulos>
+		<Articulos Id="Articulos2" RowOrder="2">
+			<Proveedor>17893</Proveedor>
+			<Remision>F-160</Remision>
+			<FolioPedido>53273586</FolioPedido>
+			<Tienda>5578</Tienda>
+			<Codigo>7500462405175</Codigo>
+			<CantidadUnidadCompra>45</CantidadUnidadCompra>
+			<CostoNetoUnidadCompra>720.00</CostoNetoUnidadCompra>
+			<PorcentajeIEPS>0.00</PorcentajeIEPS>
+			<PorcentajeIVA>16</PorcentajeIVA>
+		</Articulos>
+	</DSCargaRemisionProv>
+</cfdi:Addenda>
+</cfdi:Comprobante>
